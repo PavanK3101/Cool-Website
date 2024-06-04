@@ -1,0 +1,24 @@
+
+h1{
+    font-size:45px;
+}
+
+h2{
+    text-align: center;
+}
+.footer{
+    color:black;
+    background-color: slategrey;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.footer:hover{
+    background-color: slategray;
+}
+.feature-icon{
+    height: 1.5em;
+    width: 1.5em;
+    border-radius: 0.4em;
+}
